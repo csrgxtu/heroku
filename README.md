@@ -1,2 +1,3 @@
 # heroku
-A heroku demo project, used for rest api
+
+a [Sails](http://sailsjs.org) application
